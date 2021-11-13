@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Purpose
-A place where you can save notes to a database, so you'll never forget what you need to remember! An exercize in GET-ing and PUSH-ing json data from and into a server!
+A place where you can save notes to a database, so you'll never forget what you need to remember! An exercise in GET-ing and PUSH-ing json data from and into a server!
 
 ## Built With
 * HTML
